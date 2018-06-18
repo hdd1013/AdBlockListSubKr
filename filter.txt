@@ -4,3 +4,4 @@
 ! Homepage: https://github.com/hdd1013/AdBlockListSubKr
 
 danawa.com##.main_ad_prodlist
+danawa.com##.ad_caster.ad_section
