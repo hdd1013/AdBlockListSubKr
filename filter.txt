@@ -3,4 +3,4 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/hdd1013/AdBlockListSubKr
 
-danawa.com##.main_ad_prodlist
+*.danawa.com/*##.main_ad_prodlist
