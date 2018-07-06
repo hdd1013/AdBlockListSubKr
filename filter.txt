@@ -5,3 +5,6 @@
 
 danawa.com##.main_ad_prodlist
 danawa.com##.ad_caster.ad_section
+danawa.com###ebayPowerClickBottomArea
+danawa.com###brandHallArea
+danawa.com##.product_ad_banner
