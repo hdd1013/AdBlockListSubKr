@@ -8,3 +8,7 @@ danawa.com##.ad_caster.ad_section
 danawa.com###ebayPowerClickBottomArea
 danawa.com###brandHallArea
 danawa.com##.product_ad_banner
+
+malltail.com##.maincont
+malltail.com##.mainshop
+malltail.com###mallree_area
