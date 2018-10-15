@@ -14,3 +14,4 @@ malltail.com##.mainshop
 malltail.com###mallree_area
 
 google.com##.gb_9c.gb_ad.gb_Xc.gb_ed.gb_g
+google.com##.gb_aa.gb_g
