@@ -9,9 +9,17 @@ danawa.com###ebayPowerClickBottomArea
 danawa.com###brandHallArea
 danawa.com##.product_ad_banner
 
+! https://post.malltail.com - Malltail Ads
 malltail.com##.maincont
 malltail.com##.mainshop
 malltail.com###mallree_area
+post.malltail.com##.visual-popup
+post.malltail.com##.tbl-popup2
+post.malltail.com##.swiper-container.addon_item_goods
+post.malltail.com##h4.title01
+post.malltail.com###orderStep4 > h3
+post.malltail.com##.my_addon_list
+post.malltail.com##.addon_notice ul
 
 google.com##.gb_9c.gb_ad.gb_Xc.gb_ed.gb_g
 google.com##.gb_aa.gb_g
@@ -19,3 +27,8 @@ google.co.kr##.gb_9c.gb_ad.gb_Xc.gb_ed.gb_g
 google.co.kr##.gb_aa.gb_g
 
 youtube.com#.yt-alert-info
+
+! Outlook.com Ads
+outlook.live.com##._1TpU2KF6f_EeQiytBaYj8I > ._3_hHr3kfEhbNYRFM5YJxH9 > ._23fxOotSm5HPNB1U_ZVw4i
+outlook.live.com##._1TpU2KF6f_EeQiytBaYj8I > ._3_hHr3kfEhbNYRFM5YJxH9
+outlook.live.com##._4EQjiwXF4KIhqby_Qqf8J
