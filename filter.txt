@@ -32,3 +32,7 @@ youtube.com#.yt-alert-info
 outlook.live.com##._1TpU2KF6f_EeQiytBaYj8I > ._3_hHr3kfEhbNYRFM5YJxH9 > ._23fxOotSm5HPNB1U_ZVw4i
 outlook.live.com##._1TpU2KF6f_EeQiytBaYj8I > ._3_hHr3kfEhbNYRFM5YJxH9
 outlook.live.com##._4EQjiwXF4KIhqby_Qqf8J
+
+! Ruliweb Ads
+ruliweb.com##[class^="ad_"]
+ruliweb.com##[Class*=" ad_"]
