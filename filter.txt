@@ -36,3 +36,4 @@ outlook.live.com##._4EQjiwXF4KIhqby_Qqf8J
 ! Ruliweb Ads
 ruliweb.com##[class^="ad_"]
 ruliweb.com##[Class*=" ad_"]
+ruliweb.com##.list_inner.table_body
